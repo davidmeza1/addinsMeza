@@ -1,0 +1,9 @@
+Name: Create Project
+Description: Creates folders for project documents
+Binding: CreateProjectFolders
+Interactive: false
+
+Name: Special Requests
+Description: Used to inform management of special requests
+Binding: specialRequest
+Interactive: true
