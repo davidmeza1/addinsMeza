@@ -47,7 +47,7 @@ specialRequest <- function(inputValue1, inputValue2) {
                                to = sendto(),
                                cc = c("david.meza-1@nasa.gov"),
                                #bcc = c("BCC Recipient <bcc.recipient@gmail.com>"),
-                               subject = "NA141 - David Meza - Special Request ",
+                               subject = "David Meza - Special Request ",
                                body = emailbody,
                                smtp = list(host.name = "mrelay.jsc.nasa.gov", port = 25),
                                authenticate = FALSE,

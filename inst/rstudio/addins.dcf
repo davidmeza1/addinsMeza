@@ -7,3 +7,8 @@ Name: Special Requests
 Description: Used to inform management of special requests
 Binding: specialRequest
 Interactive: true
+
+Name: Search StackOverflow
+Description: Used to search last error on SO
+Binding: search_last_error_on_so
+Interactive: true
